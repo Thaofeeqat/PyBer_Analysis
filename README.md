@@ -7,3 +7,4 @@ I was able to analysis the dataframe summary such as the total number of ride,dr
 The image above shows that Urban city type gets more ride and have more drivers that the rural and surban cities.
 
 ## Delierable Two
+I was able to analysis the dateframe using pandas groupby function,pivot function, loc function and also resample to show the total fares by city type 
