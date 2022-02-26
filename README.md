@@ -9,3 +9,4 @@ The image above shows that Urban city type gets more ride and have more drivers 
 ## Delierable Two
 I was able to analysis the dateframe using pandas groupby function,pivot function, loc function and also resample to show the total fares by city type 
 
+![image](https://github.com/Thaofeeqat/PyBer_Analysis/blob/main/Delivery%202.png)
